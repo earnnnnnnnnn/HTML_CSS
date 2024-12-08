@@ -1,0 +1,14 @@
+body {
+    background: #DDFCDD;
+    color: black;
+    }
+.normal {
+    font-size:15pt;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    }
+.big {
+    font-size:25pt;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    }
