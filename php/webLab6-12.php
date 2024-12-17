@@ -41,10 +41,10 @@ else
     <tr>
     <tr>
         <td align="right">Enter row : </td>
-        <td><input type="text" name="row" size="15" value=""/> </td>
+        <td><input type="number" name="row" size="15" value=""/> </td>
     </tr>
         <td align="right">Enter column : </td>
-        <td><input type="text" name="column" size="15" value=""/></td>
+        <td><input type="number" name="column" size="15" value=""/></td>
     </tr>
     <tr>
         <td colspan="2" align="center">
